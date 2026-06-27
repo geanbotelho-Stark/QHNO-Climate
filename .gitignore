@@ -1,0 +1,17 @@
+# Ambientes Virtuais e Conda
+.conda/
+miniconda3/
+envs/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# Dados e Caches de Modelos
+*.nc
+*.csv
+*.json
+.pennylane/
+
+# IDEs
+.vscode/
+.idea/
